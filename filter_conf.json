@@ -1,0 +1,14 @@
+{
+    "filter_conf": {
+        "dev_addr_filter_1": 4,
+        "dev_addr_filter_2": 5,
+        "dev_addr_filter_3": 50,
+        "dev_addr_filter_4": 51,
+        "dev_addr_filter_5": 70,
+        "dev_addr_filter_6": 71,
+        "dev_addr_filter_7": 255,
+        "dev_addr_filter_8": 255,
+        "dev_addr_filter_9": 255,
+        "dev_addr_filter_10": 255
+    }
+}
